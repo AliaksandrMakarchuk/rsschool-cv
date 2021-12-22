@@ -21,7 +21,7 @@ private UpdateInternal(objectState: ObjectStateMap, force: number): void {
     }
 ```
 ### Education
-- Vitebsk State Univercity
+- Vitebsk State University
 ### Languages
 - Russian - native
 - English - B1
