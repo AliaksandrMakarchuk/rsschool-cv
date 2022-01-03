@@ -1,5 +1,5 @@
 # rsschool-cv
 
-[Git CV](https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+[Git CV](https://aliaksandrmakarchuk.github.io/rsschool-cv/cv)
 
-[HTML CV](https://GITHUB-USERNAME.github.io/rsschool-cv/)
+[HTML CV](https://aliaksandrmakarchuk.github.io/rsschool-cv/)
